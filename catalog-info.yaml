@@ -6,5 +6,6 @@ metadata:
   annotations:
     'backstage.io/techdocs-ref': dir:.
 spec:
-  targets:
-   
+  type: service
+  owner: NTTData
+  
