@@ -3,9 +3,5 @@ kind: Location
 metadata:
   name: yelb-catalog-info
   description: A sample catalog for the yelb application
-  annotations:
-    'backstage.io/techdocs-ref': dir:.
 spec:
-  type: service
   owner: NTTData
-  
